@@ -45,14 +45,14 @@ lab5/
 ### 1. Встановіть залежності
 
 ```bash
-pip install pytest
+pip3 install pytest
 ```
 
 ### 2. Запустіть тести
 
 ```bash
-cd library_system
-python -m pytest tests/ -v
+cd lab5
+python3 -m pytest tests/ -v
 ```
 
 ### Очікуваний вивід
